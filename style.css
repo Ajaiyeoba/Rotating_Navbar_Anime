@@ -99,7 +99,7 @@ nav ul li{
     transition:  transform 0.4s ease-in;
 }
 
-nav ul li a {
+nav ul li i {
     font-size: 20px;
     margin-right:  10px;
 }
@@ -111,6 +111,15 @@ nav ul li {
 nav ul li {
     margin-left: 30px;
     transform: translateX(-200px);
+}
+.headline{
+    justify-content: center;
+    align-items: center;
+}
+
+.headline h1{
+    justify-content: center;
+    align-items: center;
 }
 nav a{
     color: #3498db;
